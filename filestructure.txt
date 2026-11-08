@@ -1,0 +1,70 @@
+|-- .gitignore
+|-- .oxlintrc.json
+|-- index.html
+|-- package.json
+|-- public
+    |-- favicon.svg
+    |-- icons.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.tsx
+    |-- assets
+        |-- hero.png
+        |-- react.svg
+        |-- vite.svg
+    |-- components
+        |-- Animations
+            |-- CustomCursor.tsx
+            |-- ScrollProgress.tsx
+        |-- Cinematic
+            |-- ScrollCinematicReactor.tsx
+        |-- Footer
+            |-- Footer.tsx
+        |-- Gifts
+            |-- GiftVault.tsx
+            |-- MatrixRain.tsx
+        |-- Icons
+            |-- SocialIcons.tsx
+        |-- Media
+            |-- DeveloperTypingStation.tsx
+            |-- VisualReels.tsx
+        |-- Navbar
+            |-- Navbar.tsx
+    |-- data
+        |-- education.ts
+        |-- experience.ts
+        |-- personal.ts
+        |-- projects.ts
+        |-- skills.ts
+        |-- workflow.ts
+    |-- index.css
+    |-- main.tsx
+    |-- sections
+        |-- About
+            |-- About.tsx
+        |-- Contact
+            |-- Contact.tsx
+        |-- Education
+            |-- Education.tsx
+        |-- Experience
+            |-- Experience.tsx
+        |-- Expertise
+            |-- Expertise.tsx
+        |-- Hero
+            |-- Hero.tsx
+        |-- Projects
+            |-- Projects.tsx
+        |-- Skills
+            |-- Skills.tsx
+        |-- Workflow
+            |-- Workflow.tsx
+    |-- styles
+        |-- globals.css
+    |-- utils
+        |-- audioSynth.ts
+|-- tailwind.config.js
+|-- tsconfig.app.json
+|-- tsconfig.json
+|-- tsconfig.node.json
+|-- vite.config.ts
